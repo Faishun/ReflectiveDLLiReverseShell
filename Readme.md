@@ -34,7 +34,8 @@ Usage
 To test use the inject.x64.exe (or inject.exe for x32) to inject reflective_dll.x64.dll into a host process via a process id, e.g.:
 
 > inject.x64.exe 1234
-> inject.exe 6084
+
+> inject.exe 1234
 	
 License
 =======
