@@ -1,9 +1,9 @@
 About
 =====
 
-This is a fork of an updated Reflective DLL PoC tested on Visual Studio 2022 v143 Windows 10 10.0.19045 Build 19045 system.
+This is a fork of an updated Reflective DLL PoC tested to work on Visual Studio 2022 (instead of old 2012 version) v143 Windows 10 system.
 
-Currently tested only for x64.
+Currently tested only for x64 and only Windows to Linux reverse shell.
 
 Original Old Repo
 ========
