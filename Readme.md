@@ -13,7 +13,7 @@ https://github.com/stephenfewer/ReflectiveDLLInjection
 Build
 =====
 
-Open the 'rdi.sln' file in Visual Studio C++ (from 2022, 2019 will not work) and build the solution in Release mode to make inject.exe and reflective_dll.dll
+Open the 'rdi.sln' file in Visual Studio C++ (from 2022, 2019 will not work) and build the solution in Release mode to make inject.x64.exe and reflective_dll.x64.dll
 
 Usage
 =====
