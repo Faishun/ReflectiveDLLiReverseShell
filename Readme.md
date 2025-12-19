@@ -5,6 +5,11 @@ This is a fork of an updated Reflective DLL PoC tested to work on Visual Studio 
 
 Currently tested only for x64 and only Windows to Linux reverse shell.
 
+Cautions
+=====
+
+Do not mix windows/shell_reverse_tcp, windows/x64/meterpreter/reverse_tcp and windows/x64/shell_reverse_tcp, since if the injection fails, the .exe process will be killed.
+
 Original Old Repo
 ========
 
