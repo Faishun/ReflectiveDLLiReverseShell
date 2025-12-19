@@ -8,7 +8,7 @@ Currently tested only for x64 and only Windows to Linux reverse shell.
 Cautions
 =====
 
-Do not mix windows/shell_reverse_tcp, windows/x64/meterpreter/reverse_tcp and windows/x64/shell_reverse_tcp, since if the injection fails, the .exe process will be killed.
+Do not mix windows/shell_reverse_tcp, windows/x64/meterpreter/reverse_tcp and windows/x64/shell_reverse_tcp, use a simple x64/shell_reverse_tcp with netcat or any other listener.
 
 Original Old Repo
 ========
